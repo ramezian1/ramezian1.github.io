@@ -26,6 +26,6 @@ Here are some of my featured projects:
 
 ## 📝 Connect with Me
 
-*   [LinkedIn](https://www.linkedin.com/in/robertmezian1)
+*   [LinkedIn](https://www.linkedin.com/in/robertmezian)
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
