@@ -11,11 +11,11 @@ I'm a dedicated and enthusiastic coder with a keen interest in web development a
 
 Here are some of my featured projects:
 
-*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information.
+*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information. [Project Link](java/src)
    
-*   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques.
+*   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. [Project Link](html/index.html)
   
-*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup.
+*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. [Project Link](python/test)
   
 
 ## 🖥️ Skills
@@ -26,6 +26,6 @@ Here are some of my featured projects:
 
 ## 📝 Connect with Me
 
-*   [https://www.linkedin.com/in/robertmezian1]
+*   [LinkedIn](https://www.linkedin.com/in/robertmezian1)
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
