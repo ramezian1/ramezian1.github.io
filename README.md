@@ -11,11 +11,11 @@ My name is Robert Mezian, and I'm a dedicated and enthusiastic coder with a keen
 
 Here are some of my featured projects:
 
-*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information. [Project Link](java/src)
+*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information. You can view the code or clone it via git under the `java/src` folder. [Project Link](java/src)
    
 *   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. [Project Link](html/index.html)
   
-*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. [Project Link](python/test)
+*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. You can view the code or clone it via git under the `python/test` folder.[Project Link](python/test)
   
 
 ### 🖥️ Skills
