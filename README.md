@@ -1,4 +1,4 @@
-# Welcome to My Coding Portfolio! 👋
+## Welcome to My Coding Portfolio! 👋
 
 This repository showcases a collection of my coding projects, demonstrating my skills and passion for software development. 
 
