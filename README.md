@@ -11,11 +11,11 @@ My name is Robert Mezian, and I'm a dedicated and enthusiastic coder with a keen
 
 Here are some of my featured projects:
 
-*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information. You can view the code or clone it via git under the `java/src` folder. [Project Link](java/src)
+*   **Bank Simulation - Java:** A console-based application that simulates core banking functions like creating accounts, depositing/withdrawing funds, and managing customer information. You can view the code or clone it via git under the `java/src` folder. [Project Link]([java/src](https://github.com/ramezian1/ramezian1.github.io/tree/main/java/src))
    
 *   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. [Project Link](html/index.html)
   
-*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. You can view the code or clone it via git under the `python/test` folder.[Project Link](python/test)
+*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. You can view the code or clone it via git under the `python/test` folder. [Project Link](https://github.com/ramezian1/ramezian1.github.io/tree/main/python)
   
 
 ### 🖥️ Skills
@@ -26,8 +26,10 @@ Here are some of my featured projects:
 
 ### 📝 Connect with Me
 
+*   [Github Web Portfolio](https://ramezian1.github.io/)
 *   [LinkedIn](https://www.linkedin.com/in/robert-mezian/)
-*   [My Resume](https://github.com/user-attachments/files/17630384/2024_ResumeRobertMezian.pdf)
+*   [Resume](https://github.com/user-attachments/files/17630384/2024_ResumeRobertMezian.pdf)
+*   [Professsional Website](https://robertmezian.com/)
 
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
