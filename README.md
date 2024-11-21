@@ -11,7 +11,7 @@ My name is Robert Mezian, and I'm a dedicated and enthusiastic coder with a keen
 
 Here are some of my featured projects:
 
-*   **Finance Tracker - Java Spring Boot Web Application:** is a Java-based web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java and Spring Boot, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. Feel free to visit [Link](https://github.com/ramezian1/finance-tracker)). Quick setup guide via CMD is here [README.md](https://github.com/ramezian1/finance-tracker/blob/main/README.md) to learn how to use/test it!
+*   **Finance Tracker - Java Spring Boot Web Application:** is a Java-based web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java and Spring Boot, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. Feel free to visit [Link](https://github.com/ramezian1/finance-tracker). Quick setup guide via CMD is here [README.md](https://github.com/ramezian1/finance-tracker/blob/main/README.md) to learn how to use/test it!
    
 *   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. [Link](html/index.html)
   
