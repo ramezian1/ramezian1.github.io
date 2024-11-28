@@ -16,7 +16,7 @@ A Java-based back end web application I developed and designed to help users man
    
  ### **HTML/Javascript - Web Design**
 A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. 
-[Here's a link to my project!](html/index.html)
+[Here's a link to my project!](https://github.com/ramezian1/personal-portfolio/blob/main/index.html)
 
   
  ### **Python - Automated Checkout Bot:**
