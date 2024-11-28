@@ -1,10 +1,10 @@
-mail>ramezian94@gmail.com
-fname>Robert
-lname>Mezian
-address>17141 Braxton Street
-city>Granada Hills
-state>CA
-zipcode>91344
-phone>818 517 1463
+mail>mail@test.com
+fname>RName
+lname>LName
+address>1111 Test Drive
+city>Test City
+state>XX
+zipcode>00000
+phone>111 111 1111
 
 card>4012888888881881:02:2024:660
