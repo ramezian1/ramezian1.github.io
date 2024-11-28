@@ -1,3 +1,4 @@
+import time
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
@@ -6,9 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import undetected_chromedriver as uc
-import time
 from bs4 import BeautifulSoup
-import time
 
 
 def send_click(driver,element):
