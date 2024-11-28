@@ -21,7 +21,7 @@ Before you start, make sure you have the following installed:
     ```bash
     cd python.git
     ```
-3. Install the dependencies using Maven:
+3. Install the necessary python packages using CMD and PIP:
 
     ```bash
     pip install -r requirements.txt
