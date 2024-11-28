@@ -21,7 +21,10 @@ A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive e
  #### **Python - Automated Checkout Bot:**
 A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. 
 You can view the code or clone it via git under the `python/test` folder. [Here's a link to my project!](https://github.com/ramezian1/ramezian1.github.io/blob/main/python/main)
+
   
+*   NOTE: Some projects may still be in testing phase, therefore might not function properly when ran unless stated otherwise. 
+
 
 ## 🖥️ Skills & Profession 
 
