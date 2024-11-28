@@ -16,17 +16,19 @@ Before you start, make sure you have the following installed:
     ```bash
     git clone https://github.com/your-username/ramezian1.github.io/python.git
     ```
-2. Navigate to the project directory:
+    Make sure to copy paste from top right submenu of Github
+   
+3. Navigate to the project directory:
 
     ```bash
     cd python.git
     ```
-3. Install the necessary python packages using CMD and PIP:
+4. Install the necessary python packages using CMD and PIP:
 
     ```bash
     pip install -r requirements.txt
     ```
-4. Run the application using:
+5. Run the application using:
 
     ```bash
     main.py
