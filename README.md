@@ -11,14 +11,14 @@ My name is Robert Mezian, and I'm a dedicated and enthusiastic coder with a keen
 
 Here are some of my featured projects:
 
- #### **Java Spring Boot Web Application: Finance Tracker**
+ ### **Java Spring Boot Web Application: Finance Tracker**
 A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with Spring Boot, and Javascript alongside HTML and CSS, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. [Here's a link to my project](https://github.com/ramezian1/finance-tracker).
    
- #### **HTML/Javascript - Web Design**
+ ### **HTML/Javascript - Web Design**
 A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. 
 [Here's a link to my project!](html/index.html)
   
- #### **Python - Automated Checkout Bot:**
+ ### **Python - Automated Checkout Bot:**
 A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. 
 You can view the code or clone it via git under the `python/test` folder. [Here's a link to my project!](https://github.com/ramezian1/ramezian1.github.io/blob/main/python/main)
 
@@ -34,10 +34,13 @@ You can view the code or clone it via git under the `python/test` folder. [Here'
 
 ## 📝 Connect With Me!
 
-*   [Github Website Portfolio](https://ramezian1.github.io/)
+*   [Github Website - Portfolio](https://ramezian1.github.io/)
 *   [LinkedIn](https://www.linkedin.com/in/robert-mezian/)
-*   [Resume](https://github.com/user-attachments/files/17630384/2024_ResumeRobertMezian.pdf)
-*   [Professsional Website](https://robertmezian.com/)
+*   [Resume (Contact Information](https://github.com/user-attachments/files/17630384/2024_ResumeRobertMezian.pdf)
+*   [Professsional Website (Still in beta phase, final release TBD.](https://robertmezian.com/)
 
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
+
+
+Robert Mezian 2024
