@@ -11,24 +11,25 @@ My name is Robert Mezian, and I'm a dedicated and enthusiastic coder with a keen
 
 Here are some of my featured projects:
 
-*   **Finance Tracker - Java Spring Boot Web Application:** is a Java-based web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java and Spring Boot, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. 
-Feel free to view my project here [Link](https://github.com/ramezian1/finance-tracker). 
-Quick setup guide via CMD is here [README.md](https://github.com/ramezian1/finance-tracker/blob/main/README.md) to learn how to use/test it!
+ #### **Java Spring Boot Web Application: Finance Tracker**
+A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with Spring Boot, and Javascript alongside HTML and CSS, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. [Here's a link to my project](https://github.com/ramezian1/finance-tracker).
    
-*   **HTML/Javascript - Web Design:** A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. 
-Here's a link to the project! [Link](html/index.html)
+ #### **HTML/Javascript - Web Design**
+A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. 
+[Here's a link to my project!](html/index.html)
   
-*   **Python - AutoBot:** A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. 
-You can view the code or clone it via git under the `python/test` folder. [Link](https://github.com/ramezian1/ramezian1.github.io/tree/main/python)
+ #### **Python - Automated Checkout Bot:**
+A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. 
+You can view the code or clone it via git under the `python/test` folder. [Here's a link to my project!](https://github.com/ramezian1/ramezian1.github.io/blob/main/python/main)
   
 
-### 🖥️ Skills & Profession 
+## 🖥️ Skills & Profession 
 
 *   **Programming Languages:** Java, Python, HTML & Javascript
 *   **Technologies:** Node.js, Spring Boot
 *   **Tools:** Git, Docker, VS Code
 
-### 📝 Connect With Me!
+## 📝 Connect With Me!
 
 *   [Github Website Portfolio](https://ramezian1.github.io/)
 *   [LinkedIn](https://www.linkedin.com/in/robert-mezian/)
