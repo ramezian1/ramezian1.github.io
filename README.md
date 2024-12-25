@@ -1,4 +1,3 @@
-# Welcome to Robert Mezian's Coding Project's! 👋
 
 This repository showcases a collection of my coding projects, combining my various projects from multiple repositories into one simple and easy web layout. This page demonstrates my skills and passion for software development, as well as my expertise and knowledge with languages such as Java, Python, HTML/CSS, and Javascript. All code is done by me alone over a various period of time! Some for fun, others for work and/or school. 
 
