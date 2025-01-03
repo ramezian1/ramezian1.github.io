@@ -1,4 +1,4 @@
-# Robert Mezian
+
 Graduate Computer Science Student & Software Developer
 
 ## About Me
