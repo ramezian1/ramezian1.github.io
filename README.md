@@ -1,4 +1,3 @@
-# Robert Mezian
 
 Graduate Computer Science Student & Software Developer.
 Dedicated and enthusiastic software developer with a keen interest in web development and data structures using Python and Java. I enjoy tackling challenging problems and creating innovative solutions through code. Python Automation and Java object orientations are a few of my favorite projects to work on. With over 4 years of experience, I have managed to code various programs for different tasks to create something new and efficient for programming.
