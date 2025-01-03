@@ -10,7 +10,6 @@ Dedicated and enthusiastic software developer with a keen interest in web develo
 **[Download Resume](https://github.com/user-attachments/files/18298001/Resume.New.2024.pdf)**
 
 
-
 ## 📒 Projects
 
 ### **Java Spring Boot Web Application: Finance Tracker**
@@ -33,10 +32,15 @@ You can view the code or clone it via git under the python/test folder. [PROJECT
 *   **Technologies:** Node.js, Spring Boot
 *   **Tools:** Git, Docker, VS Code
 
-### 📝 Connect With Me
-
-   ![icons8-linkedin-96](https://github.com/user-attachments/assets/b04456b9-4e88-4789-86e6-d46fdc09f811)[](https://www.linkedin.com/in/robert-mezian/)
-
-
+<h3 align="center">📝 Connect With Me</h3>
+   
+<p align="center">
+   <a href="https://www.linkedin.com/in/robert-mezian/">
+      <img src="https://github.com/user-attachments/assets/b04456b9-4e88-4789-86e6-d46fdc09f811" width="90" height="90">
+   </a>
+   <a href="https://github.com/ramezian1">
+     <img src="https://github.com/user-attachments/assets/f33a46b1-284b-483a-83dc-09a9a2e3a95d" width="90" height="90">
+   </a>
+</p>
 
 © 2024
