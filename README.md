@@ -48,4 +48,4 @@ This Python-based password manager helps users securely save, store, and encrypt
    </a>
 </p>
 
-© 2024
+© 2024-2025 Robert Mezian
