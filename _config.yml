@@ -9,5 +9,7 @@ plugins:
 # Site settings
 title: "Robert Mezian"
 description: >- # this means to ignore newlines until "baseurl:"
+include:
+  - assets/custom.css
 github_username:  ramezian1
 linkedin_username: robert-mezian
