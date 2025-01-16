@@ -1,4 +1,3 @@
-## About Me
 Graduate Computer Science student and Software Developer with 4+ years of experience leveraging Python and Java to build innovative solutions. Proven ability to tackle complex challenges in web development, data structures, and object-oriented programming, consistently delivering efficient and high-quality code.
 
 Also an IT professional with 8+ years of experience in technical support, troubleshooting, and solution implementation. Combining technical expertise with a strong foundation in software development principles to create impactful results.
