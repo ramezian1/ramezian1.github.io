@@ -1,6 +1,6 @@
 ## Getting Started 🚀
 
-### Prerequisites ⚙️
+### Prerequisites for Running Projects ⚙️
 
 Before you start, make sure you have the following installed:
 
@@ -13,6 +13,8 @@ Before you start, make sure you have the following installed:
 - **IDE** (e.g., Eclipse, IntelliJ, Microsoft VS Code)
 -  **Browser** (Chrome Recommended)
 -  Maven installed and added to path
+
+Note: Not both are needed, unless you want to view and execute both Java and Python projects. 
 
 ### Installation 🔧
 
