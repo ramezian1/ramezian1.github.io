@@ -46,6 +46,4 @@ Note: Not both are needed, unless you want to view and execute both Java and Pyt
     mvn spring-boot:run
 ```
 
-
-    
-    Alternatively, you can run it from your IDE. 
+Alternatively, you can run it from your IDE. 
