@@ -1,5 +1,8 @@
 # Robert Mezian
-Graduate Computer Science Student & Software Developer with a keen interest in web development and data structures using Python and Java. I enjoy tackling challenging problems and creating innovative solutions through code. Python Automation and Java object orientations are a few of my favorite projects to work on. With over 4 years of experience, I have managed to code various programs for different tasks to create something new and efficient for programming.
+Graduate Computer Science student and Software Developer with 4+ years of experience leveraging Python and Java to build innovative solutions. Proven ability to tackle complex challenges in web development, data structures, and object-oriented programming, consistently delivering efficient and high-quality code.
+
+Also an IT professional with 8+ years of experience in technical support, troubleshooting, and solution implementation. Combining technical expertise with a strong foundation in software development principles to create impactful results.
+See my coding projects in action on [GitHub here!](https://github.com/ramezian1) Or by clicking the links to the specified projects below.
 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
 **[Download Resume](https://github.com/user-attachments/files/18298001/Resume.New.2024.pdf)**
