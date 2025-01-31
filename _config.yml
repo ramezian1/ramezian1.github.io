@@ -15,6 +15,3 @@ include:
 github_username: ramezian1
 linkedin_username: robert-mezian
 
-header_pages:
-  - resume.html  # Add this line to include your resume in the navbar
-
