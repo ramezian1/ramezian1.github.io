@@ -1,6 +1,4 @@
-## Getting Started 🚀
-
-### Prerequisites for Running Projects ⚙️
+### Getting Started 🚀
 
 Before you start, make sure you have the following installed:
 
