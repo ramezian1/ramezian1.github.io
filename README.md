@@ -3,7 +3,11 @@ Graduate Computer Science student and Software Developer with 4+ years of experi
 Also an IT professional with 8+ years of experience in technical support, troubleshooting, and solution implementation. Combining technical expertise with a strong foundation in software development principles to create impactful results.
 See my coding projects in action on **[GitHub here!](https://github.com/ramezian1)** Or by clicking the links to the specified projects below.
 
+## 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
+
+**[View Resume](/resume.html)**
+
 **[Download Resume](https://github.com/user-attachments/files/18611133/Resume.New.2025.pdf)**
 
 
