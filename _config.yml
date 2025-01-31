@@ -15,11 +15,6 @@ include:
 github_username: ramezian1
 linkedin_username: robert-mezian
 
-# Navigation Links
-nav:
-  - title: Home
-    url: /
-  - title: Resume
-    url: /resume.html
-  - title: Resume
-    url: (https://github.com/user-attachments/files/18611133/Resume.New.2025.pdf)
+header_pages:
+  - resume.html  # Add this line to include your resume in the navbar
+
