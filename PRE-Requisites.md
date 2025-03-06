@@ -1,16 +1,16 @@
 ### Getting Started 🚀
 
-Before you start, make sure you have the following installed:
+Before you start, make sure you have the following correctly downloaded and installed:
 
 - **Python 3.11 or higher**
 - **IDE** (e.g., PyCharm, Microsoft VS Code)
 - **Browser** (Google Chrome Recommended)
-- All installed packages via pip
+- Installed packages via **pip** command/terminal (see below for steps)
 
 - **Java 17 or Newer**
 - **IDE** (e.g., Eclipse, IntelliJ, Microsoft VS Code)
 -  **Browser** (Chrome Recommended)
--  Maven installed and added to path
+-  **Maven** installed and added to PATH
 
 Note: Not both are needed, unless you want to view and execute both Java and Python projects. 
 
@@ -33,15 +33,15 @@ Note: Not both are needed, unless you want to view and execute both Java and Pyt
     ```bash
     pip install -r requirements.txt
     ```
-5. Run the application using:
+5. Running the application:
 
-    If Python:
+    **If Python:**
  ```bash
     main.py
 ```
-   If Java:  
+   **If Java:**  
 ```bash
     mvn spring-boot:run
 ```
 
-Alternatively, you can run it from your IDE. 
+Alternatively, you can run it from your Software IDE (Visual Studio Code, PyCharm, IntelliJ).
