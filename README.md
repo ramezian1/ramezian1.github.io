@@ -4,7 +4,14 @@ Also an IT professional with 8+ years of experience in technical support, troubl
 See my coding projects in action on **[GitHub here!](https://github.com/ramezian1)** Or by clicking the links to the specified projects below.
 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
-**[Download Resume](https://github.com/user-attachments/files/18611133/Resume.New.2025.pdf)**
+**[Download Resume](https://github.com/user-attachments/files/19099592/RobertMezian-FinalResume2025.pdf)**
+
+## 🖥️ Languages & Experience 
+
+*   **Programming Languages:** Java (Spring Boot), Python (Django), SQL (PostgreSQL, MySQL)
+*   **APIs & DevOps:** RESTful APIs, Docker, AWS (EC2, RDS, Lambda)
+*   **Tools:** Git, Postman, IntelliJ IDEA, VS Code
+*   **Scripting & Automation:** Python (Selenium, BeautifulSoup), Bash 
 
 
 ## 📒 Projects
@@ -32,12 +39,6 @@ This Python-based password manager helps users securely save, store, and encrypt
 5. Master Password: Requires entering a master password to authenticate and access the password manager.
 **[PROJECT LINK](https://github.com/ramezian1/python-encryptionpassmanager).**
 
-
-## 🖥️ Languages & Experience 
-
-*   **Programming Languages:** Java, Python, HTML & Javascript
-*   **Technologies:** Node.js, Spring Boot
-*   **Tools:** Git, Docker, VS Code
 
 <h3 align="center">📝 Connect With Me</h3>
    
