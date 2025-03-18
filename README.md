@@ -17,28 +17,40 @@ See my coding projects in action on **[GitHub here!](https://github.com/ramezian
 ## 📒 Projects
 
 ### **Java Spring Boot Web Application: Finance Tracker**
-A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with Spring Boot, and Javascript alongside HTML and CSS, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. **[PROJECT LINK](https://github.com/ramezian1/finance-tracker).**
+A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with Spring Boot, and Javascript alongside HTML and CSS, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. **[Project Link](https://github.com/ramezian1/springboot_finance-tracker).**
 
    
 ### **HTML/Javascript - Web Design**
 A dynamic website built with HTML, CSS, and JavaScript, showcasing interactive elements, responsive design, and modern web development techniques. 
-**[PROJECT LINK](html/index.html).**
+**[Project Link](html/index.html).**
 
 
-### **Python - Automated Checkout Bot:**
+### **Python - Automated Checkout Bot**
 A Python script that automates tasks, such as web scraping, data processing, or system administration, using libraries like Selenium or Beautiful Soup. 
-You can view the code or clone it via git under the python/test folder. **[PROJECT LINK](https://github.com/ramezian1/ramezian1.github.io/tree/main/python).**
+You can view the code or clone it via git under the python/test folder. **[Project Link](https://github.com/ramezian1/ramezian1.github.io/blob/main/python/main.py).**
 
 
-### **Python - Encrypted Password Manager:**
+### **Python - Encrypted Password Manager**
 This Python-based password manager helps users securely save, store, and encrypt passwords. The application uses Fernet encryption to ensure that your passwords are protected. The following features are:
 1. Add Password: Securely store a password for a specific username.
 2. Check Password: Verify if a given password matches the stored encrypted password.
 3. Find Password: Retrieve the encrypted password for a given username.
 4. Delete Password: Remove a stored password for a given username.
 5. Master Password: Requires entering a master password to authenticate and access the password manager.
-**[PROJECT LINK](https://github.com/ramezian1/python-encryptionpassmanager).**
+**[Project Link](https://github.com/ramezian1/Python-Password-Manager).**
 
+### **Java Exercises & Projects**
+This repository serves as a portfolio of Java projects, designed to showcase my proficiency in various aspects of Java development.
+The projects within this repository are structured to highlight:
+* **Object-Oriented Programming (OOP)**: Demonstrating principles like encapsulation, inheritance, and polymorphism.
+* **Data Structures and Algorithms**: Implementing and utilizing common data structures (e.g., lists, maps, trees) and algorithms (e.g., sorting, searching).
+* **Exception Handling**: Robust error management and handling of exceptional cases.
+* **Input/Output (I/O) Operations**: Reading and writing data from various sources.
+* **Multithreading and Concurrency**: Implementing concurrent tasks and managing threads.
+* **Design Patterns**: Applying established design patterns for maintainable and scalable code.
+* 🧪 **Testing**: Writing unit tests to ensure code correctness and reliability.
+* 🧹 **Clean Code Practices**: Adhering to coding standards and best practices for readability and maintainability.
+**[Project Link](https://github.com/ramezian1/java_projects).**
 
 <h3 align="center">📝 Connect With Me</h3>
    
