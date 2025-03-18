@@ -33,11 +33,11 @@ A Python script that automates tasks, such as **web scraping, data processing, o
 
 ### **Python - Encrypted Password Manager**
 This Python-based password manager helps users securely save, store, and encrypt passwords. The application uses Fernet encryption to ensure that your passwords are protected. The following features are:
-1. **Add Password**: Securely store a password for a specific username.
-2. **Check Password**: Verify if a given password matches the stored encrypted password.
-3. **Find Password**: Retrieve the encrypted password for a given username.
-4. **Delete Password**: Remove a stored password for a given username.
-5. **Master Password**: Requires entering a master password to authenticate and access the password manager.
+* **Add Password**: Securely store a password for a specific username.
+* **Check Password**: Verify if a given password matches the stored encrypted password.
+* **Find Password**: Retrieve the encrypted password for a given username.
+* **Delete Password**: Remove a stored password for a given username.
+* **Master Password**: Requires entering a master password to authenticate and access the password manager.
 **[Project Link](https://github.com/ramezian1/Python-Password-Manager)**
 
 ### **Java Exercises & Projects**
