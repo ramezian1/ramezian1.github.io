@@ -8,9 +8,10 @@ See my coding projects in action on **[GitHub here!](https://github.com/ramezian
 
 ## 🖥️ Languages & Experience 
 
-*   **Programming Languages:** Java (Spring Boot), Python (Django), SQL (PostgreSQL, MySQL)
-*   **APIs & DevOps:** RESTful APIs, Docker, AWS (EC2, RDS, Lambda)
-*   **Tools:** Git, Postman, IntelliJ IDEA, VS Code
+*   **Programming Languages:** Java, Python, SQL (PostgreSQL, MySQL), HTML, Javascript, C++, Swift
+*   **APIs & DevOps:** RESTful APIs, AWS (EC2, RDS, Lambda), Docker, CI/CD
+*   **Frameworks & Libraries:** Spring Boot, Django 
+*   **Tools:** Git, Postman, IntelliJ IDEA, VS Code 
 *   **Scripting & Automation:** Python (Selenium, BeautifulSoup), Bash 
 
 
@@ -48,9 +49,7 @@ The projects within this repository are structured to highlight:
 * **Input/Output (I/O) Operations**: Reading and writing data from various sources.
 * **Multithreading and Concurrency**: Implementing concurrent tasks and managing threads.
 * **Design Patterns**: Applying established design patterns for maintainable and scalable code.
-* 🧪 **Testing**: Writing unit tests to ensure code correctness and reliability.
-* 🧹 **Clean Code Practices**: Adhering to coding standards and best practices for readability and maintainability.
-   **[Project Link](https://github.com/ramezian1/java_projects)**
+**[Project Link](https://github.com/ramezian1/java_projects)**
 
 <h3 align="center">📝 Connect With Me</h3>
    
