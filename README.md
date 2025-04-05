@@ -4,7 +4,7 @@ Also an IT professional with 8+ years of experience in technical support, troubl
 See my coding projects in action on my **[GitHub Profile!](https://github.com/ramezian1)** Or by clicking the links to the specified repository projects below.
 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
-[View Resume](https://github.com/user-attachments/files/19614911/Robert_Mezian_SDE-Resume.2025.pdf)
+[View Resume](https://drive.google.com/file/d/1Ruzw7TrJxZsB2YcAgc5SMVDdSrqI1m8D/view?usp=sharing)
 
 
 # 🖥️ Languages & Experience 
