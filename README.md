@@ -4,7 +4,7 @@ Also an IT professional with 8+ years of experience in technical support, troubl
 See my coding projects in action on my **[GitHub Profile!](https://github.com/ramezian1)** Or by clicking the links to the specified repository projects below.
 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
-[View Resume](https://drive.google.com/file/d/1Ruzw7TrJxZsB2YcAgc5SMVDdSrqI1m8D/view?usp=sharing)
+**[View Resume](https://drive.google.com/file/d/1Ruzw7TrJxZsB2YcAgc5SMVDdSrqI1m8D/view?usp=sharing)**
 
 
 # 🖥️ Languages & Experience 
@@ -30,11 +30,11 @@ A dynamic website built with **HTML, CSS, and JavaScript**, showcasing interacti
 
 ### **Aspect Based AI Analysis of iPhone Customer Reviews (Python)**
 This project dives deep into customer feedback for the Apple iPhone 11, going beyond simple star ratings using **Aspect-Based Sentiment Analysis (ABSA)**
-1.  **Data Loading & Exploration 🔍:** We're starting by loading the data and getting to know it, looking for patterns and insights.
-2.  **Text Preprocessing 🧹:** We're cleaning up the review text by making everything lowercase, removing punctuation and numbers, and using spaCy to lemmatize words and remove stop words.
-3.  **Aspect Extraction 🎯:** We're finding the key features people talk about using frequency analysis (CountVectorizer) and matching them against a list of relevant iPhone features.
-4.  **Sentiment Assignment 😃😞:** We're using NLTK's VADER sentiment analyzer to figure out the sentiment (positive, negative, or neutral) for each aspect in the sentences where they appear.
-5.  **Analysis & Visualization 📈:** Finally, we're summarizing and visualizing the sentiments to see what people really think about each aspect.
+*  **Data Loading & Exploration 🔍:** We're starting by loading the data and getting to know it, looking for patterns and insights.
+*  **Text Preprocessing 🧹:** We're cleaning up the review text by making everything lowercase, removing punctuation and numbers, and using spaCy to lemmatize words and remove stop words.
+*  **Aspect Extraction 🎯:** We're finding the key features people talk about using frequency analysis (CountVectorizer) and matching them against a list of relevant iPhone features.
+*  **Sentiment Assignment 😃😞:** We're using NLTK's VADER sentiment analyzer to figure out the sentiment (positive, negative, or neutral) for each aspect in the sentences where they appear.
+*  **Analysis & Visualization 📈:** Finally, we're summarizing and visualizing the sentiments to see what people really think about each aspect.
 **[Project Link](https://github.com/ramezian1/Aspect_Analysis)**
 
 
