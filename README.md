@@ -17,18 +17,18 @@ See my coding projects in action on my **[GitHub Profile!](https://github.com/ra
    
 # 📒 Projects
 
-## **Java Spring Boot Web Application: Finance Tracker**
+### **Java Spring Boot Web Application: Finance Tracker**
 A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, 
 this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with **Spring Boot**, and **Javascript alongside HTML and CSS**, the application provides a simple yet effective way to keep track of tasks,
 set deadlines, and prioritize work. **[Project Link](https://github.com/ramezian1/springboot_finance-tracker)**
 
    
-## **HTML/Javascript - Web Design**
+### **HTML/Javascript - Web Design**
 A dynamic website built with **HTML, CSS, and JavaScript**, showcasing interactive elements, responsive design, and modern web development techniques. 
 **[Project Link](html/index.html)**
 
 
-## **Aspect Based AI Analysis of iPhone Customer Reviews (Python)**
+### **Aspect Based AI Analysis of iPhone Customer Reviews (Python)**
 This project dives deep into customer feedback for the Apple iPhone 11, going beyond simple star ratings using **Aspect-Based Sentiment Analysis (ABSA)**
 1.  **Data Loading & Exploration 🔍:** We're starting by loading the data and getting to know it, looking for patterns and insights.
 2.  **Text Preprocessing 🧹:** We're cleaning up the review text by making everything lowercase, removing punctuation and numbers, and using spaCy to lemmatize words and remove stop words.
@@ -38,7 +38,7 @@ This project dives deep into customer feedback for the Apple iPhone 11, going be
 **[Project Link](https://github.com/ramezian1/Aspect_Analysis)**
 
 
-## **Encrypted Password Manager (Python)**
+### **Encrypted Password Manager (Python)**
 This Python-based password manager helps users securely save, store, and encrypt passwords. The application uses Fernet encryption to ensure that your passwords are protected. The following features are:
 * **Add Password**: Securely store a password for a specific username.
 * **Check Password**: Verify if a given password matches the stored encrypted password.
@@ -47,7 +47,7 @@ This Python-based password manager helps users securely save, store, and encrypt
 * **Master Password**: Requires entering a master password to authenticate and access the password manager.
 **[Project Link](https://github.com/ramezian1/Python-Password-Manager)**
 
-## **Java Exercises & Projects**
+### **Java Exercises & Projects**
 This repository serves as a portfolio of Java projects, designed to showcase my proficiency in various aspects of Java development.
 The projects within this repository are structured to highlight:
 * **Object-Oriented Programming (OOP)**: Demonstrating principles like encapsulation, inheritance, and polymorphism.
