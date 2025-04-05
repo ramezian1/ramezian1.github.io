@@ -4,34 +4,41 @@ Also an IT professional with 8+ years of experience in technical support, troubl
 See my coding projects in action on my **[GitHub Profile!](https://github.com/ramezian1)** Or by clicking the links to the specified repository projects below.
 
 ![icons8-resume-96](https://github.com/user-attachments/assets/2d0de8e5-7af6-4ef0-80c9-3532fafcaf48)
-**[Download Resume](https://github.com/user-attachments/files/19313334/Robert_Mezian_SDE-Resume.2025.pdf)**
+[View Resume](https://github.com/user-attachments/files/19614911/Robert_Mezian_SDE-Resume.2025.pdf)
 
-## 🖥️ Languages & Experience 
 
+# 🖥️ Languages & Experience 
 *   **Programming Languages:** Java, Python, SQL (PostgreSQL, MySQL), HTML, Javascript, C++, Swift
 *   **APIs & DevOps:** RESTful APIs, AWS (EC2, RDS, Lambda), Docker, CI/CD
 *   **Frameworks & Libraries:** Spring Boot, Django 
-*   **Tools:** Git, Postman, IntelliJ IDEA, VS Code 
-*   **Scripting & Automation:** Python (Selenium, BeautifulSoup), Bash 
-
-
-## 📒 Projects
-
-### **Java Spring Boot Web Application: Finance Tracker**
-A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with **Spring Boot**, and **Javascript alongside HTML and CSS**, the application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. **[Project Link](https://github.com/ramezian1/springboot_finance-tracker)**
+*   **Tools:** Git, Postman, IntelliJ IDEA, VS Code, Conda, Node.js
+*   **Scripting & Automation:** Python (BeautifulSoup, Pandas, NumPy), Bash, PowerShell.
 
    
-### **HTML/Javascript - Web Design**
+# 📒 Projects
+
+## **Java Spring Boot Web Application: Finance Tracker**
+A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. With features that allow for task creation, editing, deletion, and categorization, 
+this tool aims to streamline task management for individuals and teams alike. Built using Java for backend with **Spring Boot**, and **Javascript alongside HTML and CSS**, the application provides a simple yet effective way to keep track of tasks,
+set deadlines, and prioritize work. **[Project Link](https://github.com/ramezian1/springboot_finance-tracker)**
+
+   
+## **HTML/Javascript - Web Design**
 A dynamic website built with **HTML, CSS, and JavaScript**, showcasing interactive elements, responsive design, and modern web development techniques. 
 **[Project Link](html/index.html)**
 
 
-### **Python - Automated Checkout Bot**
-A Python script that automates tasks, such as **web scraping, data processing, or system administration**, using libraries like **Selenium** or **Beautiful Soup**. 
-**[Project Link](https://github.com/ramezian1/ramezian1.github.io/blob/main/python/main.py)**
+## **Aspect Based AI Analysis of iPhone Customer Reviews (Python)**
+This project dives deep into customer feedback for the Apple iPhone 11, going beyond simple star ratings using **Aspect-Based Sentiment Analysis (ABSA)**
+1.  **Data Loading & Exploration 🔍:** We're starting by loading the data and getting to know it, looking for patterns and insights.
+2.  **Text Preprocessing 🧹:** We're cleaning up the review text by making everything lowercase, removing punctuation and numbers, and using spaCy to lemmatize words and remove stop words.
+3.  **Aspect Extraction 🎯:** We're finding the key features people talk about using frequency analysis (CountVectorizer) and matching them against a list of relevant iPhone features.
+4.  **Sentiment Assignment 😃😞:** We're using NLTK's VADER sentiment analyzer to figure out the sentiment (positive, negative, or neutral) for each aspect in the sentences where they appear.
+5.  **Analysis & Visualization 📈:** Finally, we're summarizing and visualizing the sentiments to see what people really think about each aspect.
+**[Project Link](https://github.com/ramezian1/Aspect_Analysis)**
 
 
-### **Python - Encrypted Password Manager**
+## **Encrypted Password Manager (Python)**
 This Python-based password manager helps users securely save, store, and encrypt passwords. The application uses Fernet encryption to ensure that your passwords are protected. The following features are:
 * **Add Password**: Securely store a password for a specific username.
 * **Check Password**: Verify if a given password matches the stored encrypted password.
@@ -40,7 +47,7 @@ This Python-based password manager helps users securely save, store, and encrypt
 * **Master Password**: Requires entering a master password to authenticate and access the password manager.
 **[Project Link](https://github.com/ramezian1/Python-Password-Manager)**
 
-### **Java Exercises & Projects**
+## **Java Exercises & Projects**
 This repository serves as a portfolio of Java projects, designed to showcase my proficiency in various aspects of Java development.
 The projects within this repository are structured to highlight:
 * **Object-Oriented Programming (OOP)**: Demonstrating principles like encapsulation, inheritance, and polymorphism.
@@ -50,6 +57,7 @@ The projects within this repository are structured to highlight:
 * **Multithreading and Concurrency**: Implementing concurrent tasks and managing threads.
 * **Design Patterns**: Applying established design patterns for maintainable and scalable code.
 **[Project Link](https://github.com/ramezian1/java_projects)**
+
 
 <h3 align="center">📝 Connect With Me</h3>
    
