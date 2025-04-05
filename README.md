@@ -17,32 +17,29 @@ See my coding projects in action on my **[GitHub Profile!](https://github.com/ra
    
 # 📒 Projects
 
-### **Aspect Based AI Analysis of iPhone Customer Reviews (Python)**
+### **[Aspect Based AI Analysis of iPhone Customer Reviews (Python)](https://github.com/ramezian1/Aspect_Analysis)**
 This project dives deep into customer feedback for the Apple iPhone 11, going beyond simple star ratings using **Aspect-Based Sentiment Analysis (ABSA)**
 *  **Data Loading & Exploration** We're starting by loading the data and getting to know it, looking for patterns and insights.
 *  **Text Preprocessing** We're cleaning up the review text by making everything lowercase, removing punctuation and numbers, and using spaCy to lemmatize words and remove stop words.
 *  **Aspect Extraction** We're finding the key features people talk about using frequency analysis (CountVectorizer) and matching them against a list of relevant iPhone features.
 *  **Sentiment Assignment** We're using NLTK's VADER sentiment analyzer to figure out the sentiment (positive, negative, or neutral) for each aspect in the sentences where they appear.
 *  **Analysis & Visualization** Finally, we're summarizing and visualizing the sentiments to see what people really think about each aspect.
-**[Project Link](https://github.com/ramezian1/Aspect_Analysis)**
 
-### **Encrypted Password Manager (Python)**
+### **[Encrypted Password Manager (Python)](https://github.com/ramezian1/Python-Password-Manager)**
 This Python-based password manager helps users securely save, store, and encrypt passwords. The application uses Fernet encryption to ensure that your passwords are protected. The following features are:
 * **Add Password**: Securely store a password for a specific username.
 * **Check Password**: Verify if a given password matches the stored encrypted password.
 * **Find Password**: Retrieve the encrypted password for a given username.
 * **Delete Password**: Remove a stored password for a given username.
 * **Master Password**: Requires entering a master password to authenticate and access the password manager.
-**[Project Link](https://github.com/ramezian1/Python-Password-Manager)**
 
-### **Spring Boot Web Application: Finance Tracker**
+### **[Spring Boot Web Application: Finance Tracker](https://github.com/ramezian1/springboot_finance-tracker)**
 A Java-based back end web application I developed and designed to help users manage and organize their tasks efficiently. 
 * With features that allow for task creation, editing, deletion, and categorization, this tool aims to streamline task management for individuals and teams alike. 
 * Built using Java for backend with **Spring Boot**, and **Javascript alongside HTML and CSS**
 * This application provides a simple yet effective way to keep track of tasks, set deadlines, and prioritize work. 
-   **[Project Link](https://github.com/ramezian1/springboot_finance-tracker)**
 
-### **Java Exercises - Beginner**
+### **[Java Exercises - Beginner](https://github.com/ramezian1/java_projects)**
 This repository serves as a portfolio of Java projects, designed to showcase my proficiency in various aspects of Java development.
 The projects within this repository are structured to highlight:
 * **Object-Oriented Programming (OOP)**: Demonstrating principles like encapsulation, inheritance, and polymorphism.
@@ -51,16 +48,14 @@ The projects within this repository are structured to highlight:
 * **Input/Output (I/O) Operations**: Reading and writing data from various sources.
 * **Multithreading and Concurrency**: Implementing concurrent tasks and managing threads.
 * **Design Patterns**: Applying established design patterns for maintainable and scalable code.
-**[Project Link](https://github.com/ramezian1/java_projects)**
    
-### **HTML5/Javascript - Front End Website Development**
+### **[HTML5/Javascript - Front End Website Development](html/index.html)**
 A dynamic website built with **HTML, CSS, and JavaScript**, showcasing interactive elements, responsive design, and modern web development techniques.
 * **Menu Projects** – Dynamic restaurant menu builder.
 * **Recipe Finder** – Search for recipes and view ingredients.
 * **To-Do List** – A simple and efficient task management app.
 * **Weather Dashboard** – A dashboard that shows real-time weather updates.
 * **Paragraph Generator** – Generate random paragraphs for testing and UI purposes. 
-**[Project Link](html/index.html)**
 
 
 ---
