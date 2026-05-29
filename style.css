@@ -243,54 +243,50 @@ section h2 {
 /* ── Card Carousel ─────────────────────────────────── */
 .card-carousel {
   position: relative;
-  overflow: hidden;
-  border-radius: calc(var(--radius) - 2px) calc(var(--radius) - 2px) 0 0;
   margin: -1.5rem -1.5rem 1.25rem -1.5rem;
   background: var(--bg-secondary);
-  height: 220px;
+  border-radius: calc(var(--radius) - 2px) calc(var(--radius) - 2px) 0 0;
+  overflow: hidden;
 }
 
 .carousel-track {
   display: flex;
-  height: 100%;
   transition: transform 0.35s ease;
 }
 
 .carousel-track img {
   flex-shrink: 0;
   width: 100%;
-  height: 100%;
-  object-fit: contain;
+  height: 200px;
+  display: block;
+  object-fit: cover;
   object-position: center top;
-  background: var(--bg-secondary);
-  padding: 0.5rem;
+  cursor: zoom-in;
 }
 
 .carousel-btn {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: var(--bg);
-  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.45);
+  border: none;
   border-radius: 50%;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   cursor: pointer;
-  color: var(--fg);
-  opacity: 0;
-  transition: opacity var(--transition), background var(--transition);
+  color: #fff;
+  transition: background 0.15s ease;
   z-index: 2;
   line-height: 1;
 }
 
-.card-carousel:hover .carousel-btn { opacity: 1; }
-.carousel-btn.prev { left: 0.5rem; }
-.carousel-btn.next { right: 0.5rem; }
-.carousel-btn:hover { background: var(--bg-secondary); }
+.carousel-btn:hover { background: rgba(0,0,0,0.7); }
+.carousel-btn.prev { left: 0.6rem; }
+.carousel-btn.next { right: 0.6rem; }
 
 .carousel-dots {
   position: absolute;
@@ -310,6 +306,28 @@ section h2 {
 }
 
 .dot.active { background: var(--accent); }
+
+/* ── Lightbox ──────────────────────────────────────── */
+#lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+}
+
+#lightbox.open { display: flex; }
+
+#lightbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.6);
+}
 
 .card {
   background: var(--bg);
