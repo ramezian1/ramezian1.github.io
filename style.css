@@ -273,6 +273,13 @@ section:nth-child(even) .card {
   letter-spacing: -0.01em;
 }
 
+.card h3 a {
+  color: inherit;
+  transition: color var(--transition);
+}
+
+.card h3 a:hover { color: var(--accent); }
+
 .card-icon {
   color: var(--fg-muted);
   flex-shrink: 0;
