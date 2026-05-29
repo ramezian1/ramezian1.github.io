@@ -512,30 +512,33 @@ section:nth-child(even) .tag {
 
 section:nth-child(even) .chip { background: var(--bg-secondary); }
 
-/* ── Resume ────────────────────────────────────────── */
-#resume {
-  text-align: center;
+/* ── Resume + Contact (side by side) ───────────────── */
+#resume-contact {
+  padding: 5rem 0;
 }
 
-#resume p {
-  color: var(--fg-muted);
-  margin-bottom: 2rem;
-  max-width: 420px;
-  margin-left: auto;
-  margin-right: auto;
+.resume-contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
 }
 
-/* ── Contact ───────────────────────────────────────── */
+@media (max-width: 640px) {
+  .resume-contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+#resume,
 #contact {
   text-align: center;
 }
 
+#resume p,
 #contact .section-sub {
   color: var(--fg-muted);
   margin-bottom: 2rem;
-  max-width: 400px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .contact-links {
