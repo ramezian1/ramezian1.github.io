@@ -240,6 +240,77 @@ section h2 {
   gap: 1.25rem;
 }
 
+/* ── Card Carousel ─────────────────────────────────── */
+.card-carousel {
+  position: relative;
+  overflow: hidden;
+  border-radius: calc(var(--radius) - 2px) calc(var(--radius) - 2px) 0 0;
+  margin: -1.5rem -1.5rem 1.25rem -1.5rem;
+  background: var(--bg-secondary);
+  height: 220px;
+}
+
+.carousel-track {
+  display: flex;
+  height: 100%;
+  transition: transform 0.35s ease;
+}
+
+.carousel-track img {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center top;
+  background: var(--bg-secondary);
+  padding: 0.5rem;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: var(--fg);
+  opacity: 0;
+  transition: opacity var(--transition), background var(--transition);
+  z-index: 2;
+  line-height: 1;
+}
+
+.card-carousel:hover .carousel-btn { opacity: 1; }
+.carousel-btn.prev { left: 0.5rem; }
+.carousel-btn.next { right: 0.5rem; }
+.carousel-btn:hover { background: var(--bg-secondary); }
+
+.carousel-dots {
+  position: absolute;
+  bottom: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.35rem;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--border);
+  transition: background var(--transition);
+}
+
+.dot.active { background: var(--accent); }
+
 .card {
   background: var(--bg);
   border: 1px solid var(--border);

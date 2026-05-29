@@ -66,3 +66,23 @@ mobileLinks.forEach(function(a) {
     hamburger.setAttribute('aria-expanded', 'false');
   });
 });
+
+
+// ── Carousels ─────────────────────────────────────────
+document.querySelectorAll('.card-carousel').forEach(function(carousel) {
+  var track  = carousel.querySelector('.carousel-track');
+  var imgs   = carousel.querySelectorAll('img');
+  var dots   = carousel.querySelectorAll('.dot');
+  var total  = imgs.length;
+  var idx    = 0;
+
+  function goTo(n) {
+    idx = (n + total) % total;
+    track.style.transform = 'translateX(-' + (idx * 100) + '%)';
+    dots.forEach(function(d, i) { d.classList.toggle('active', i === idx); });
+  }
+
+  carousel.querySelector('.prev').addEventListener('click', function() { goTo(idx - 1); });
+  carousel.querySelector('.next').addEventListener('click', function() { goTo(idx + 1); });
+  dots.forEach(function(d, i) { d.addEventListener('click', function() { goTo(i); }); });
+});
