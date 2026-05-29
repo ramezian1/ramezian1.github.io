@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (t) { document.documentElement.setAttribute('data-theme', t); }
+      else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — react-sync</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+
+  <nav id="nav">
+    <div class="container nav-inner">
+      <a class="nav-logo" href="/">Robert Mezian</a>
+      <div class="nav-actions">
+        <button id="theme-toggle" aria-label="Toggle theme"></button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <section id="privacy">
+      <div class="container">
+        <h2>Privacy Policy</h2>
+        <p style="color: var(--fg-muted); margin-bottom: 2rem; font-size: 0.9rem;">react-sync Chrome Extension &mdash; Last updated May 2026</p>
+
+        <div style="display: flex; flex-direction: column; gap: 2rem; max-width: 600px;">
+
+          <div>
+            <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem;">No data collected</h3>
+            <p style="color: var(--fg-muted);">react-sync does not collect, store, or transmit any personal data. The extension operates entirely within your browser.</p>
+          </div>
+
+          <div>
+            <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem;">What the extension does</h3>
+            <p style="color: var(--fg-muted);">react-sync reads and controls video playback state on the tabs you open it on. It does not access any account information, browsing history, or content outside of video playback timing.</p>
+          </div>
+
+          <div>
+            <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem;">Permissions</h3>
+            <p style="color: var(--fg-muted);">The extension requests access to the active tab solely to detect and synchronize video elements. No data leaves your device.</p>
+          </div>
+
+          <div>
+            <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem;">Third parties</h3>
+            <p style="color: var(--fg-muted);">react-sync does not share any information with third parties. There are no analytics, tracking scripts, or external requests.</p>
+          </div>
+
+          <div>
+            <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem;">Contact</h3>
+            <p style="color: var(--fg-muted);">Questions? Reach out at <a href="mailto:ramezian.dev@gmail.com" style="color: var(--accent);">ramezian.dev@gmail.com</a></p>
+          </div>
+
+        </div>
+
+        <div style="margin-top: 3rem;">
+          <a href="/" class="btn btn-outline">← Back to Portfolio</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Robert Mezian</p>
+  </footer>
+
+  <script src="../../script.js"></script>
+</body>
+</html>
