@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (t) { document.documentElement.setAttribute('data-theme', t); }
+      else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Robert Mezian — Tools and gear I use daily.">
+  <title>Uses — Robert Mezian</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <nav id="nav">
+    <div class="container nav-inner">
+      <a class="nav-logo" href="/">Robert Mezian</a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="/#skills">Skills</a></li>
+        <li><a href="/#resume">Resume</a></li>
+        <li><a href="/#contact">Contact</a></li>
+        <li><a href="/uses.html" class="active">Uses</a></li>
+      </ul>
+      <div class="nav-actions">
+        <button id="theme-toggle" aria-label="Toggle theme"></button>
+        <button id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round">
+            <line x1="3" y1="6" x2="17" y2="6"/>
+            <line x1="3" y1="10" x2="17" y2="10"/>
+            <line x1="3" y1="14" x2="17" y2="14"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <section id="uses">
+      <div class="container">
+        <h2 class="fade-up">Uses</h2>
+        <p class="fade-up" style="color: var(--fg-muted); margin-bottom: 3rem; max-width: 520px;">
+          The tools, hardware, and software I reach for day to day — for IT work, development, and everything in between.
+        </p>
+
+        <div class="uses-grid fade-up">
+
+          <div class="uses-group">
+            <h3>Hardware</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">MacBook Pro</span>
+                <span class="uses-desc">Primary machine for development</span>
+              </li>
+              <li>
+                <span class="uses-name">Windows 10/11 PC</span>
+                <span class="uses-desc">IT support and testing environment</span>
+              </li>
+              <li>
+                <span class="uses-name">iPhone</span>
+                <span class="uses-desc">Mobile testing for hifi-audio-log and other apps</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="uses-group">
+            <h3>Development</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">VS Code</span>
+                <span class="uses-desc">Primary editor</span>
+              </li>
+              <li>
+                <span class="uses-name">Git + GitHub</span>
+                <span class="uses-desc">Version control and project hosting</span>
+              </li>
+              <li>
+                <span class="uses-name">Chrome DevTools</span>
+                <span class="uses-desc">Debugging and extension development</span>
+              </li>
+              <li>
+                <span class="uses-name">Vercel</span>
+                <span class="uses-desc">Deploying web projects</span>
+              </li>
+              <li>
+                <span class="uses-name">Expo</span>
+                <span class="uses-desc">React Native development and testing</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="uses-group">
+            <h3>Languages &amp; Frameworks</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">JavaScript</span>
+                <span class="uses-desc">Chrome extensions, web apps, tooling</span>
+              </li>
+              <li>
+                <span class="uses-name">Python</span>
+                <span class="uses-desc">Scripting, automation, Flask APIs</span>
+              </li>
+              <li>
+                <span class="uses-name">PowerShell &amp; Bash</span>
+                <span class="uses-desc">IT automation and system administration</span>
+              </li>
+              <li>
+                <span class="uses-name">React Native + TypeScript</span>
+                <span class="uses-desc">Mobile app development</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="uses-group">
+            <h3>IT &amp; Systems</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">JAMF Pro</span>
+                <span class="uses-desc">macOS endpoint management</span>
+              </li>
+              <li>
+                <span class="uses-name">SCCM</span>
+                <span class="uses-desc">Windows deployment and patching</span>
+              </li>
+              <li>
+                <span class="uses-name">ServiceNow</span>
+                <span class="uses-desc">Ticket management and workflows</span>
+              </li>
+              <li>
+                <span class="uses-name">Azure AD</span>
+                <span class="uses-desc">Identity and access management</span>
+              </li>
+              <li>
+                <span class="uses-name">AWS WorkSpaces</span>
+                <span class="uses-desc">Virtual desktop infrastructure</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="uses-group">
+            <h3>Productivity</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">Claude</span>
+                <span class="uses-desc">AI assistant for writing, code review, and research</span>
+              </li>
+              <li>
+                <span class="uses-name">Notion</span>
+                <span class="uses-desc">Notes and project planning</span>
+              </li>
+              <li>
+                <span class="uses-name">react-sync</span>
+                <span class="uses-desc">My own Chrome extension — watching reaction videos</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="uses-group">
+            <h3>This Site</h3>
+            <ul class="uses-list">
+              <li>
+                <span class="uses-name">HTML, CSS, JavaScript</span>
+                <span class="uses-desc">No frameworks, no build step</span>
+              </li>
+              <li>
+                <span class="uses-name">GitHub Pages</span>
+                <span class="uses-desc">Hosting via ramezian.dev</span>
+              </li>
+              <li>
+                <span class="uses-name">Inter</span>
+                <span class="uses-desc">Typography via Google Fonts</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+
+        <div class="fade-up" style="margin-top: 3rem;">
+          <a href="/" class="btn btn-outline">← Back to Portfolio</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Robert Mezian</p>
+  </footer>
+
+  <script src="/script.js"></script>
+</body>
+</html>
