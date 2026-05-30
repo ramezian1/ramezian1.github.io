@@ -18,6 +18,8 @@ function setTheme(theme) {
   root.setAttribute('data-theme', theme);
   localStorage.setItem('theme', theme);
   toggle.innerHTML = theme === 'dark' ? SVG_SUN : SVG_MOON;
+  var badge = document.getElementById('launch-badge');
+  if (badge) badge.src = 'https://websitelaunches.com/badge/ramezian.dev.svg?theme=' + theme;
 }
 
 toggle.addEventListener('click', function() {
