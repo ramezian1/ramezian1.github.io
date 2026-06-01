@@ -118,3 +118,33 @@ lightbox.addEventListener('click', function() {
 document.addEventListener('keydown', function(e) {
   if (e.key === 'Escape') { lightbox.classList.remove('open'); lightboxImg.src = ''; }
 });
+
+
+// ── Project Reel — seamless loop via cloning ──────────
+var reelTrack = document.querySelector('.reel-track');
+if (reelTrack) {
+  var reelCards = Array.from(reelTrack.children);
+  reelCards.forEach(function(card) {
+    var clone = card.cloneNode(true);
+    clone.setAttribute('aria-hidden', 'true');
+    reelTrack.appendChild(clone);
+  });
+
+  // Drag-to-scroll
+  var isDragging = false, startX = 0, scrollStart = 0;
+  reelTrack.addEventListener('mousedown', function(e) {
+    isDragging = true;
+    startX = e.clientX;
+    scrollStart = reelTrack.parentElement.scrollLeft;
+    reelTrack.style.animationPlayState = 'paused';
+  });
+  document.addEventListener('mousemove', function(e) {
+    if (!isDragging) return;
+    reelTrack.parentElement.scrollLeft = scrollStart - (e.clientX - startX);
+  });
+  document.addEventListener('mouseup', function() {
+    if (!isDragging) return;
+    isDragging = false;
+    reelTrack.style.animationPlayState = '';
+  });
+}

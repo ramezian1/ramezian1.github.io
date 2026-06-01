@@ -251,6 +251,36 @@ section h2 {
   gap: 1.25rem;
 }
 
+/* ── Project Reel ──────────────────────────────────── */
+.reel-viewport {
+  overflow: hidden;
+  padding: 1rem 0 2rem;
+  cursor: grab;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
+}
+
+.reel-viewport:active { cursor: grabbing; }
+
+.reel-track {
+  display: flex;
+  gap: 1.25rem;
+  width: max-content;
+  animation: reel-scroll 28s linear infinite;
+}
+
+.reel-viewport:hover .reel-track { animation-play-state: paused; }
+
+@keyframes reel-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.reel-card {
+  width: 320px;
+  flex-shrink: 0;
+}
+
 /* ── Card Carousel ─────────────────────────────────── */
 .card-carousel {
   position: relative;
