@@ -130,21 +130,28 @@ if (reelTrack) {
     reelTrack.appendChild(clone);
   });
 
-  // Drag-to-scroll
-  var isDragging = false, startX = 0, scrollStart = 0;
+  // Drag-to-scroll — only suppress clicks when user actually dragged
+  var isDragging = false, didDrag = false, startX = 0, scrollStart = 0;
   reelTrack.addEventListener('mousedown', function(e) {
     isDragging = true;
+    didDrag = false;
     startX = e.clientX;
     scrollStart = reelTrack.parentElement.scrollLeft;
     reelTrack.style.animationPlayState = 'paused';
   });
   document.addEventListener('mousemove', function(e) {
     if (!isDragging) return;
-    reelTrack.parentElement.scrollLeft = scrollStart - (e.clientX - startX);
+    var dx = e.clientX - startX;
+    if (Math.abs(dx) > 4) didDrag = true;
+    reelTrack.parentElement.scrollLeft = scrollStart - dx;
   });
   document.addEventListener('mouseup', function() {
     if (!isDragging) return;
     isDragging = false;
     reelTrack.style.animationPlayState = '';
   });
+  // Block click-through only when dragged, not on simple click
+  reelTrack.addEventListener('click', function(e) {
+    if (didDrag) { e.preventDefault(); e.stopPropagation(); didDrag = false; }
+  }, true);
 }
