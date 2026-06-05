@@ -266,7 +266,7 @@ section h2 {
   display: flex;
   gap: 1.25rem;
   width: max-content;
-  animation: reel-scroll 28s linear infinite;
+  animation: reel-scroll 40s linear infinite;
 }
 
 .reel-viewport:hover .reel-track { animation-play-state: paused; }
