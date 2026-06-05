@@ -97,8 +97,10 @@ document.querySelectorAll('.card-carousel').forEach(function(carousel) {
     dots.forEach(function(d, i) { d.classList.toggle('active', i === idx); });
   }
 
-  carousel.querySelector('.prev').addEventListener('click', function(e) { e.stopPropagation(); goTo(idx - 1); });
-  carousel.querySelector('.next').addEventListener('click', function(e) { e.stopPropagation(); goTo(idx + 1); });
+  var prevBtn = carousel.querySelector('.prev');
+  var nextBtn = carousel.querySelector('.next');
+  if (prevBtn) prevBtn.addEventListener('click', function(e) { e.stopPropagation(); goTo(idx - 1); });
+  if (nextBtn) nextBtn.addEventListener('click', function(e) { e.stopPropagation(); goTo(idx + 1); });
   dots.forEach(function(d, i) { d.addEventListener('click', function(e) { e.stopPropagation(); goTo(i); }); });
 
   imgs.forEach(function(img) {
