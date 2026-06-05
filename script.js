@@ -122,6 +122,18 @@ document.addEventListener('keydown', function(e) {
 });
 
 
+// ── About screenshot rotator ──────────────────────────
+var aboutImgs = document.querySelectorAll('.about-ss');
+if (aboutImgs.length > 1) {
+  var aboutIdx = 0;
+  setInterval(function() {
+    aboutImgs[aboutIdx].classList.remove('active');
+    aboutIdx = (aboutIdx + 1) % aboutImgs.length;
+    aboutImgs[aboutIdx].classList.add('active');
+  }, 3000);
+}
+
+
 // ── Project Reel — seamless loop via cloning ──────────
 var reelTrack = document.querySelector('.reel-track');
 if (reelTrack) {
