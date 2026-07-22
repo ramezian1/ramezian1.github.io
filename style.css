@@ -217,7 +217,7 @@ section h2 {
 
 .about-screenshots {
   flex-shrink: 0;
-  width: 380px;
+  width: 480px;
 }
 
 .about-screenshot-carousel {
@@ -675,6 +675,10 @@ footer {
 }
 
 /* ── Mobile ────────────────────────────────────────── */
+@media (max-width: 960px) and (min-width: 769px) {
+  .about-screenshots { width: 380px; }
+}
+
 @media (max-width: 768px) {
   #hamburger { display: flex; }
 
@@ -708,7 +712,7 @@ footer {
 
   .about-layout { flex-direction: column; gap: 2rem; }
   .about-screenshots { width: 100%; }
-  .about-screenshot-carousel { max-width: 340px; margin: 0 auto; }
+  .about-screenshot-carousel { max-width: 420px; margin: 0 auto; }
 }
 
 @media (max-width: 480px) {
