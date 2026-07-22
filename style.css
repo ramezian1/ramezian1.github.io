@@ -204,7 +204,7 @@ section h2 {
 .about-layout {
   display: flex;
   gap: 3.5rem;
-  align-items: stretch;
+  align-items: center;
 }
 
 .about-text {
@@ -218,7 +218,6 @@ section h2 {
 .about-screenshots {
   flex-shrink: 0;
   width: 380px;
-  display: flex;
 }
 
 .about-screenshot-carousel {
@@ -227,8 +226,8 @@ section h2 {
   overflow: hidden;
   box-shadow: 0 8px 32px var(--shadow);
   background: var(--bg-secondary);
-  flex: 1;
-  min-height: 320px;
+  width: 100%;
+  aspect-ratio: 16 / 10;
 }
 
 .about-ss {
