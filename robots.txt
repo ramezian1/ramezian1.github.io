@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ramezian.dev/sitemap.xml
+Sitemap: https://robertmezian.com/sitemap.xml
