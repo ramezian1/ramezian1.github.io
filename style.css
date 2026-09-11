@@ -648,6 +648,14 @@ section:nth-child(even) .chip { background: var(--bg-secondary); }
   color: var(--accent);
 }
 
+.linkedin-badge {
+  display: inline-block;
+  padding: 0.75rem;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
 /* ── Footer ────────────────────────────────────────── */
 footer {
   text-align: center;
