@@ -561,6 +561,13 @@ section:nth-child(even) .tag {
   color: var(--fg-muted);
 }
 
+.section-subhead {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: var(--fg);
+}
+
 .skill-group h3 {
   font-size: 0.8rem;
   font-weight: 600;
@@ -649,8 +656,12 @@ section:nth-child(even) .chip { background: var(--bg-secondary); }
 }
 
 .linkedin-badge {
-  display: inline-block;
-  padding: 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 250px;
+  min-height: 55px;
+  padding: 0.5rem 0.75rem;
   background: #fff;
   border: 1px solid var(--border);
   border-radius: var(--radius);
