@@ -561,6 +561,13 @@ section:nth-child(even) .tag {
   color: var(--fg-muted);
 }
 
+.section-subhead {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: var(--fg);
+}
+
 .skill-group h3 {
   font-size: 0.8rem;
   font-weight: 600;
